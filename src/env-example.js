@@ -1,0 +1,1 @@
+var TRANSFOLLOW_BASEURL = "https://api.transfollow.com/api/"
